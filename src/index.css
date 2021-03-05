@@ -9,7 +9,7 @@ h1, h2, p, ul, li {
 h1{
   color:#29ab87;
 }
-p,h2,li{
+p,h2,h3,li{
   color:white;
 }
 ul.header li {
@@ -41,4 +41,18 @@ ul.header li a {
 }
 .active {
   background-color: #29ab87;
+}
+
+#box{
+  padding: 50px;
+  margin: 10px;
+}
+button{
+  color: #FFF;
+  background-color: #29ab87;
+  padding: 10px;
+  margin: 20px;
+}
+img{
+  width: 150px;
 }

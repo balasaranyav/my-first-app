@@ -13,7 +13,7 @@ Simply enter your postcode below and browse a range of storage space to rent nea
 All of our hosts are verified and vetted and we will insure your stuff against damage, so you can rest assured that your belongings are safe as houses after they leave your home.
 </p>
         <p> We’re on hand to help you achieve the no-clutter, no-stress home space that you deserve (take that, Marie Kondo!)</p>
-        <a href="https://stashbee.com/storage" target="_blank" style={{ textDecoration: 'none',color:"#29ab87",backgroundColor:"white" ,padding:5}}>More about Storage space</a><br/><br/>
+        <a href="https://stashbee.com/storage" target="_blank" rel="noreferrer" style={{ textDecoration: 'none',color:"#29ab87",backgroundColor:"white" ,padding:5}}>More about Storage space</a><br/><br/>
       </div>
     );
   }

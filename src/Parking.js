@@ -11,7 +11,7 @@ class Stuff extends Component {
           <li>Book</li>
           <li>Park</li>
         </ul>
-        <a href="https://stashbee.com/parking-spaces" target="_blank" style={{ textDecoration: 'none',color:"#29ab87",backgroundColor:"white" ,padding:5}}>More about Parking space</a><br/><br/>
+        <a href="https://stashbee.com/parking-spaces" target="_blank" rel="noreferrer" style={{ textDecoration: 'none',color:"#29ab87",backgroundColor:"white" ,padding:5}}>More about Parking space</a><br/><br/>
 
       </div>
     );
